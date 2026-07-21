@@ -1,7 +1,20 @@
 [
   {
     "id": 1,
-    "name": "product-1",
+    "name": "Wireless Mouse",
+    "description": "A comfortable wireless mouse with ergonomic design and long battery life.",
     "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches for a responsive typing experience.",
+    "price": 350
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Headphones",
+    "description": "Noise-canceling Bluetooth headphones with high-quality sound and up to 30 hours of battery life.",
+    "price": 500
   }
 ]
