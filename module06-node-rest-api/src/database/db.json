@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "name": "Wireless Mouse",
+    "name": "Wireless Mousefsd",
     "description": "A comfortable wireless mouse with ergonomic design and long battery life.",
-    "price": 200
+    "price": 23200
   },
   {
     "id": 2,
-    "name": "Mechanical Keyboard",
-    "description": "RGB backlit mechanical keyboard with blue switches for a responsive typing experience.",
-    "price": 350
+    "name": "prdouct 6453445",
+    "description": "product description",
+    "price": 32000
   },
   {
     "id": 3,
@@ -19,13 +19,13 @@
   },
   {
     "id": 1784733915874,
-    "name": "prdouct 645",
-    "description": "product description",
-    "price": 3000
+    "name": "Wireless Mousefsd",
+    "description": "A comfortable wireless mouse with ergonomic design and long battery life.",
+    "price": 23200
   },
   {
     "id": 1784733930520,
-    "name": "prdouct 6453445",
+    "name": "product 6453445",
     "description": "product description",
     "price": 3000
   }
