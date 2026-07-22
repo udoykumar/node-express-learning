@@ -10,3 +10,8 @@ export const readProduct = () => {
   return JSON.parse(products);
   //   console.log(products);
 };
+
+export const insertProduct = (payload: any) => {
+  console.log("payload", payload);
+  fs.writeFileSync(filePath, JSON.stringify(payload));
+};

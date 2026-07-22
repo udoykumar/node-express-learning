@@ -16,5 +16,17 @@
     "name": "Bluetooth Headphones",
     "description": "Noise-canceling Bluetooth headphones with high-quality sound and up to 30 hours of battery life.",
     "price": 500
+  },
+  {
+    "id": 1784733915874,
+    "name": "prdouct 645",
+    "description": "product description",
+    "price": 3000
+  },
+  {
+    "id": 1784733930520,
+    "name": "prdouct 6453445",
+    "description": "product description",
+    "price": 3000
   }
 ]
